@@ -19,5 +19,5 @@ script:
 - mvn sonar:sonar \
   -Dsonar.organization=agustinvalls-github \
   -Dsonar.host.url=https://sonarcloud.io \
-  -Dsonar.login=$PATRON
+  -Dsonar.login=$RANOS
 
