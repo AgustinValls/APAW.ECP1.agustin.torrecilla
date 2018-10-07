@@ -23,6 +23,7 @@ public class Autobus {
         return capacidad;
     }
 
+
     public void setCapacidad(int capacidad) {
         this.capacidad = capacidad;
     }
